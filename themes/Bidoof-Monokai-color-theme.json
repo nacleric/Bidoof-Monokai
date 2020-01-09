@@ -188,6 +188,7 @@
 		"statusBar.background" : "#1A1A1A",
 		"statusBar.noFolderBackground" : "#1A1A1A",
 		"titleBar.activeBackground": "#1A1A1A",
+		"activityBar.background": "#1A1A1A",
 		"activityBar.activeBackground": "#1e1f1a",
 		"sideBar.background": "#1e1f1a",
 	},
