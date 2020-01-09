@@ -180,13 +180,16 @@
 		"editor.foreground": "#F8F8F2",
 		"editorWhitespace.foreground": "#696969",
 		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E",
+		"editor.selectionBackground": "#684503d7",
+		"editor.selectionHighlightBackground": "#684503d7",
 		"tab.activeBorderTop": "#ffffff",
 		"tab.inactiveBackground": "#1e1f1a",
 		"scrollbar.shadow": "#ffffff00",
 		"statusBar.background" : "#1A1A1A",
 		"statusBar.noFolderBackground" : "#1A1A1A",
 		"titleBar.activeBackground": "#1A1A1A",
+		"activityBar.activeBackground": "#1e1f1a",
+		"sideBar.background": "#1e1f1a",
 	},
 	"name": "Bidoof-Monokai"
 }
