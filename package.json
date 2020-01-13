@@ -1,7 +1,9 @@
 {
     "name": "Bidoof-Monokai",
     "displayName": "Bidoof-Monokai",
+    "publisher": "NaClEric",
     "description": "My version of monokai",
+    "repository": "https://github.com/nacleric/Bidoof-Monokai",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.41.0"
