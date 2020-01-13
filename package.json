@@ -2,9 +2,10 @@
     "name": "Bidoof-Monokai",
     "displayName": "Bidoof-Monokai",
     "publisher": "NaClEric",
-    "description": "My version of monokai",
+    "description": "Monokai but like Bidoof flavored",
     "repository": "https://github.com/nacleric/Bidoof-Monokai",
-    "version": "0.0.1",
+    "icon": "assets/bidoof.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.41.0"
     },
