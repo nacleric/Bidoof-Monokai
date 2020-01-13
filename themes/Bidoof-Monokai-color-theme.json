@@ -182,6 +182,8 @@
 		"editor.lineHighlightBackground": "#3E3D32",
 		"editor.selectionBackground": "#684503d7",
 		"editor.selectionHighlightBackground": "#684503d7",
+		"editorIndentGuide.background": "#4b4b2d",
+		"editorIndentGuide.activeBackground": "#8f8f86",
 		"tab.activeBorderTop": "#ffffff",
 		"tab.inactiveBackground": "#1e1f1a",
 		"scrollbar.shadow": "#ffffff00",
